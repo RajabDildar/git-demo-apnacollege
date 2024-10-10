@@ -4,4 +4,4 @@ My first git repository
 <br>
 created by Rajab Dildar
 <br>
-I Am modifying this file for fun
+I have created this repository to practise git and github commands and their uses
